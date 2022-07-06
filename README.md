@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developement and Data analytics!
 - 🌱 I’m currently learning HTML CSS and Javascript!
 - 💞️ I’m looking to collaborate on small beginner projects!
-- 📫 How to reach me [...](https://www.linkedin.com/in/jon-o-donnell-b7814723a/)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/jon-o-donnell-b7814723a/)
 
 <!---
 jodonnell1/jodonnell1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
